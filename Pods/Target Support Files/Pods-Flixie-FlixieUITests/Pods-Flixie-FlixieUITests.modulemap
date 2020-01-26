@@ -1,0 +1,6 @@
+framework module Pods_Flixie_FlixieUITests {
+  umbrella header "Pods-Flixie-FlixieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
