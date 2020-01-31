@@ -31,6 +31,6 @@ Flixie is an app that allows users to browse movies from the [The Movie Database
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-
+https://imgur.com/a/GE4BzDk
 
 
